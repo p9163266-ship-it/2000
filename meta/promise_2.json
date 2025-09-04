@@ -1,0 +1,19 @@
+{
+  "name": "Promise #1",
+  "symbol": "PROMISE",
+  "description": "Test bonus promise #1",
+  "image": "https://raw.githubusercontent.com/p9163266-ship-it/2000/refs/heads/main/promise_2.png",
+  "attributes": [
+    { "trait_type": "Stage", "value": "Demo" },
+    { "trait_type": "Index", "value": "1" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/p9163266-ship-it/2000/refs/heads/main/promise_2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
